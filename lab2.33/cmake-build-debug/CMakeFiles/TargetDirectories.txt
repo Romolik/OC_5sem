@@ -1,0 +1,3 @@
+/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug/CMakeFiles/lab2_33.dir

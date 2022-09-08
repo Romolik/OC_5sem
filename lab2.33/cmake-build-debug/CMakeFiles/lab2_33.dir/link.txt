@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab2_33.dir/main.cpp.o CMakeFiles/lab2_33.dir/HTTPParser.cpp.o CMakeFiles/lab2_33.dir/Connection.cpp.o  -o lab2_33 

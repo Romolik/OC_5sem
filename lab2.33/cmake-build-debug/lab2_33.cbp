@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab2_33"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2_33">
+				<Option output="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug/lab2_33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2_33"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2_33/fast">
+				<Option output="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug/lab2_33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/romanshshiptsov/Programms new os/lab2.33/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2_33/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/romanshshiptsov/Programms\ new\ os/lab2.33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/Classes.h">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/Connection.cpp">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/Connection.h">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/HTTPParser.cpp">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/HTTPParser.h">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/main.cpp">
+			<Option target="lab2_33"/>
+		</Unit>
+		<Unit filename="/Users/romanshshiptsov/Programms new os/lab2.33/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

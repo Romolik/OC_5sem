@@ -1,0 +1,3 @@
+/Users/romanshshiptsov/19212_Shchiptsov_OC/19212_Shchiptsov_OC/5sem/lab31/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/romanshshiptsov/19212_Shchiptsov_OC/19212_Shchiptsov_OC/5sem/lab31/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romanshshiptsov/19212_Shchiptsov_OC/19212_Shchiptsov_OC/5sem/lab31/cmake-build-debug/CMakeFiles/lab31.dir
